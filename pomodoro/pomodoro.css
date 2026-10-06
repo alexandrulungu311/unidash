@@ -1,0 +1,9 @@
+.pomo-box {
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+#pomoTime { font-size: 72px; font-weight: bold; margin: 10px 0 20px; }
+.pomo-controls { display: flex; justify-content: center; gap: 10px; margin-top: 12px; }

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pomodoro</title>
+  <link rel="stylesheet" href="../css/style.css">
+  <link rel="stylesheet" href="pomodoro.css">
+</head>
+<body>
+  <nav class="navbar">
+    <a href="../index.html">🏠 Acasă</a>
+    <a href="../todo/todo.html">📝 To-do</a>
+    <a class="active" href="../pomodoro/pomodoro.html">⏱️ Pomodoro</a>
+    <a href="../quotes/quotes.html">💬 Citate</a>
+  </nav>
+
+  <h1>⏱️ Pomodoro</h1>
+
+  <div class="pomo-box">
+    <p id="pomoMode">Concentrare</p>
+    <div id="pomoTime">25:00</div>
+
+    <div class="pomo-controls">
+      <button id="pomoStart">Start</button>
+      <button id="pomoPause">Pauză</button>
+      <button id="pomoReset">Reset</button>
+    </div>
+
+    <div class="pomo-controls">
+      <button id="pomoWork">Studiu 25 min</button>
+      <button id="pomoBreak">Pauză 5 min</button>
+    </div>
+  </div>
+
+  <script src="pomodoro.js"></script>
+</body>
+</html>

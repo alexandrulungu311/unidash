@@ -1,0 +1,9 @@
+.quote-box {
+  background: white;
+  border-radius: 12px;
+  padding: 30px;
+  text-align: center;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+#quoteText { font-size: 22px; font-style: italic; }
+#quoteAuthor { color: gray; margin-bottom: 20px; }

@@ -49,11 +49,11 @@ button {
   border: none;
   border-radius: 8px;
   background: #0f3ebe;
-  color: rgb(14, 120, 146);
+  color: rgb(236, 239, 240);
   cursor: pointer;
 }
 input[type="text"] {
   padding: 8px;
-  border: 1px solid #ff00b3;
+  border: 1px solid #f8f7f8;
   border-radius: 8px;
 }

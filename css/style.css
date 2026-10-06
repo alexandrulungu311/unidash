@@ -48,8 +48,8 @@ button {
   padding: 8px 14px;
   border: none;
   border-radius: 8px;
-  background: #4f6df5;
-  color: white;
+  background: #e91264;
+  color: rgb(14, 120, 146);
   cursor: pointer;
 }
 input[type="text"] {

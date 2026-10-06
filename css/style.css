@@ -48,12 +48,12 @@ button {
   padding: 8px 14px;
   border: none;
   border-radius: 8px;
-  background: #e91264;
+  background: #0f3ebe;
   color: rgb(14, 120, 146);
   cursor: pointer;
 }
 input[type="text"] {
   padding: 8px;
-  border: 1px solid #ccc;
+  border: 1px solid #ff00b3;
   border-radius: 8px;
 }
